@@ -1,0 +1,8 @@
+7
+78C:\Users\Giovanni Calleja\Documents\webprojects\modulos\dist\index.6b9ca3e8.js132778359501213463 0
+60C:\Users\Giovanni Calleja\Documents\webprojects\modulos\dist132778359501263727 1
+70C:\Users\Giovanni Calleja\Documents\webprojects\modulos\operaciones.js132778359317252502 0
+66C:\Users\Giovanni Calleja\Documents\webprojects\modulos\index.html132778346151417781 0
+63C:\Users\Giovanni Calleja\Documents\webprojects\modulos\main.js132778359499652341 0
+82C:\Users\Giovanni Calleja\Documents\webprojects\modulos\dist\index.6b9ca3e8.js.map132778359501253715 0
+71C:\Users\Giovanni Calleja\Documents\webprojects\modulos\dist\index.html132778357884517929 0
